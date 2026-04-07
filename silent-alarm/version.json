@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.1",
-  "important_version": "1.0.0",
+  "latest_version": "1.0.2",
+  "important_version": "1.0.2",
   "is_forced_update": false,
   "update_url": "https://apps.apple.com/jp/app/id6761014199",
-  "message": "最新版への更新をお願いします。"
+  "message": "アラーム追加ボタンが表示されない問題を修正しました。最新版への更新をお願いします。"
 }
